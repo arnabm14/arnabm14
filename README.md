@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Python Developer & Data Engineer
+Python Developer & Data Engineer \n
 Currently working for Experian as an outsourced employee of Tata Consultancy Services
 
 - 🔭 I’m currently working on my [Crypto trading Bot](https://github.com/arnabm14/WazirX_Crypto_Trading_Bot) with WazirX API
