@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working for phData as an Data EngineerPersonal Project <br>🌱 I’m currently learning for a Data Engineer Course<br>👯 I’m looking to collaborate on Data Enigneering and Bitcoin Mining projects<br>🤔 I’m looking for help with Bitcoin mining and my WazirX API Bot<br>💬 Ask me about anything you want to<br>📫 How to reach me: Text me on LinkedIn<br>😄 Pronouns: (He/Him)<br>⚡ Fun fact: Freelance Content Writer and RTS/MMO Gamer. Casually playing : NFS Rivals, Cities Skylines, Vampires Survivor
+🔭 I’m currently working for phData as a Data EngineerPersonal Project <br>🌱 I’m currently studying for a Data Engineer Course<br>👯 I’m looking to collaborate on Data Engineering and Bitcoin Mining projects<br>🤔 I’m looking for help with Bitcoin mining and my WazirX API Bot<br>💬 Ask me about anything you want to<br>📫 How to reach me: Text me on LinkedIn<br>😄 Pronouns: (He/Him)<br>⚡ Fun fact: Freelance Content Writer and RTS/MMO Gamer. Casually playing: NFS Rivals, Cities Skylines, Vampires Survivor
 
 
 ## 🌐 Socials:
